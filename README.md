@@ -28,3 +28,5 @@ Examples
     
     NPA.of_number(1234567890)
     => nil 
+    
+*Based on data from http://en.wikipedia.org/wiki/List_of_North_American_Numbering_Plan_area_codes*
